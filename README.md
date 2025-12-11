@@ -64,4 +64,30 @@ I am a Computer Engineering graduate from **Sardar Patel Institute of Technology
 
 | **Trading Latency Topology Visualizer** 🌏 | **Real-Time Metaverse Engine** 🎮 |
 | :--- | :--- |
-| Architected a real-time visualization dashboard using **Next.js** and **react-globe
+| Architected a real-time visualization dashboard using **Next.js** and **react-globe.gl** to map cloud-to-exchange connectivity. Modeled network jitter and geodesic distance for realistic trading simulations. | Built a low-latency multiplayer engine using **Socket.IO** and **Node.js**. Implemented efficient collision detection and proximity-based discovery for a seamless multi-user experience. |
+| 🛠️ *Next.js, TanStack Query, Globe.gl* | 🛠️ *React, Express, Socket.IO* |
+
+---
+
+### 🏆 Achievements & Stats
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=harshith754&theme=radical&no-frame=true&margin-w=15&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br/>
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshith754&theme=radical&border_radius=4&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshith-kunder-7660b822a)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kunderharshith3@gmail.com)
+
+</div>
