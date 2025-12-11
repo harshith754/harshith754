@@ -69,20 +69,6 @@ I am a Computer Engineering graduate from **Sardar Patel Institute of Technology
 
 ---
 
-### 🏆 Achievements & Stats
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=harshith754&theme=radical&no-frame=true&margin-w=15&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-<br/>
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshith754&theme=radical&border_radius=4&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
 <div align="center">
 
 ### 📫 Connect with Me
