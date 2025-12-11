@@ -2,7 +2,7 @@
 
   # Hi there, I'm Harshith Kunder! 👋
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2496ED&center=true&vCenter=true&width=435&lines=Full+Stack+Engineer;Golang+%26+Systems+Enthusiast;Specialist+@+Codeforces;Building+Scalable+Backends)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2496ED&center=true&vCenter=true&width=435&lines=Full+Stack+Engineer;Golang+%26+Systems+Enthusiast;Specialist+@+Codeforces;React+%26+React+Native+Dev)](https://git.io/typing-svg)
 
   <br/>
 
@@ -12,7 +12,7 @@
 
   <br/>
 
-  [![](https://visitcount.itsvg.in/api?id=YOUR_GITHUB_USERNAME&icon=0&color=0)](https://visitcount.itsvg.in)
+  [![](https://visitcount.itsvg.in/api?id=harshith754&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
 
@@ -20,12 +20,12 @@
 
 ### 🧐 About Me
 
-I am a Computer Engineering graduate from **Sardar Patel Institute of Technology (SPIT)** with a minor in Management from **SPJIMR**. I specialize in building high-throughput systems and interactive frontends.
+I am a Computer Engineering graduate from **Sardar Patel Institute of Technology (SPIT)** with a minor in Management from **SPJIMR**. I specialize in building high-throughput systems and interactive cross-platform applications.
 
-- 🔭 I’m currently building **gRPC microservices** and **SDKs** at **FealtyX**.
+- 🔭 I’m currently building **gRPC microservices** and **TypeScript SDKs** at **FealtyX**.
 - ⚡ Previous impact: Driven **190K INR/mo revenue** growth at **WorkIndia**.
+- 📱 Extensive experience with **React** and **React Native** for web and mobile.
 - 🧩 Competitive Programming: **Codeforces Specialist** | **3★ CodeChef** | **1000+ DSA Problems Solved**.
-- 🌱 I’m currently exploring **Rust** and advanced **Cloud Architectures**.
 
 ---
 
@@ -40,6 +40,12 @@ I am a Computer Engineering graduate from **Sardar Patel Institute of Technology
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=OpenJDK&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 
+#### **Frontend & Mobile**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=React&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=react-query&logoColor=white)
+
 #### **Backend & Infra**
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)
@@ -50,12 +56,6 @@ I am a Computer Engineering graduate from **Sardar Patel Institute of Technology
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=PostgreSQL&logoColor=white)
 
-#### **Frontend**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=React&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=react-query&logoColor=white)
-
 </div>
 
 ---
@@ -64,30 +64,4 @@ I am a Computer Engineering graduate from **Sardar Patel Institute of Technology
 
 | **Trading Latency Topology Visualizer** 🌏 | **Real-Time Metaverse Engine** 🎮 |
 | :--- | :--- |
-| Architected a real-time visualization dashboard using **Next.js** and **react-globe.gl** to map cloud-to-exchange connectivity. Modeled network jitter and geodesic distance for realistic trading simulations. | Built a low-latency multiplayer engine using **Socket.IO** and **Node.js**. Implemented efficient collision detection and proximity-based discovery for a seamless multi-user experience. |
-| 🛠️ *Next.js, TanStack Query, Globe.gl* | 🛠️ *React, Express, Socket.IO* |
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshith754&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshith754&theme=radical&border_radius=4&hide_border=true" alt="GitHub Streak" />
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshith754&layout=compact&theme=radical&hide_border=true&count_private=true)
-
-</div>
-
----
-
-<div align="center">
-
-### 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_HANDLE)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kunderharshith3@gmail.com)
-
-</div>
+| Architected a real-time visualization dashboard using **Next.js** and **react-globe
