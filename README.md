@@ -2,7 +2,7 @@
 
   # Hi there, I'm Harshith Kunder! 👋
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=22&duration=2000&pause=1000&color=2496ED&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;Golang+%26+Systems+Enthusiast;Specialist+@+Codeforces;React+%26+React+Native+Dev)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=22&duration=3500&pause=1500&color=2496ED&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;Golang+%26+Systems+Enthusiast;Specialist+@+Codeforces;React+%26+React+Native+Dev)](https://git.io/typing-svg)
 
   <br/>
 
